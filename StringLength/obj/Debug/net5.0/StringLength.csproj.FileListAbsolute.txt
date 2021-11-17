@@ -1,0 +1,16 @@
+C:\Users\686926\source\repos\StringLength\StringLength\bin\Debug\net5.0\StringLength.exe
+C:\Users\686926\source\repos\StringLength\StringLength\bin\Debug\net5.0\StringLength.deps.json
+C:\Users\686926\source\repos\StringLength\StringLength\bin\Debug\net5.0\StringLength.runtimeconfig.json
+C:\Users\686926\source\repos\StringLength\StringLength\bin\Debug\net5.0\StringLength.runtimeconfig.dev.json
+C:\Users\686926\source\repos\StringLength\StringLength\bin\Debug\net5.0\StringLength.dll
+C:\Users\686926\source\repos\StringLength\StringLength\bin\Debug\net5.0\ref\StringLength.dll
+C:\Users\686926\source\repos\StringLength\StringLength\bin\Debug\net5.0\StringLength.pdb
+C:\Users\686926\source\repos\StringLength\StringLength\obj\Debug\net5.0\StringLength.csproj.AssemblyReference.cache
+C:\Users\686926\source\repos\StringLength\StringLength\obj\Debug\net5.0\StringLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\686926\source\repos\StringLength\StringLength\obj\Debug\net5.0\StringLength.AssemblyInfoInputs.cache
+C:\Users\686926\source\repos\StringLength\StringLength\obj\Debug\net5.0\StringLength.AssemblyInfo.cs
+C:\Users\686926\source\repos\StringLength\StringLength\obj\Debug\net5.0\StringLength.csproj.CoreCompileInputs.cache
+C:\Users\686926\source\repos\StringLength\StringLength\obj\Debug\net5.0\StringLength.dll
+C:\Users\686926\source\repos\StringLength\StringLength\obj\Debug\net5.0\ref\StringLength.dll
+C:\Users\686926\source\repos\StringLength\StringLength\obj\Debug\net5.0\StringLength.pdb
+C:\Users\686926\source\repos\StringLength\StringLength\obj\Debug\net5.0\StringLength.genruntimeconfig.cache

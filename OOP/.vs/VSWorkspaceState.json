@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\OOP",
+    "\\OOP\\Armor",
+    "\\OOP\\Armor\\Mail",
+    "\\OOP\\Characters",
+    "\\OOP\\Characters\\Melee",
+    "\\OOP\\Characters\\Spellcaster",
+    "\\OOP\\Weapon",
+    "\\OOP\\Weapon\\Blunt",
+    "\\OOP\\Weapon\\Sharp"
+  ],
+  "SelectedNode": "\\OOP\\Characters\\Melee\\Assasin.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,10 @@
+G:\StringLength\OOP\OOP\obj\Debug\net5.0\OOP.csproj.AssemblyReference.cache
+G:\StringLength\OOP\OOP\obj\Debug\net5.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+G:\StringLength\OOP\OOP\obj\Debug\net5.0\OOP.AssemblyInfoInputs.cache
+G:\StringLength\OOP\OOP\obj\Debug\net5.0\OOP.AssemblyInfo.cs
+G:\StringLength\OOP\OOP\obj\Debug\net5.0\OOP.csproj.CoreCompileInputs.cache
+\\adir.hull.ac.uk\home\686\686926\StringLength\OOP\OOP\obj\Debug\net5.0\OOP.csproj.AssemblyReference.cache
+\\adir.hull.ac.uk\home\686\686926\StringLength\OOP\OOP\obj\Debug\net5.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+\\adir.hull.ac.uk\home\686\686926\StringLength\OOP\OOP\obj\Debug\net5.0\OOP.AssemblyInfoInputs.cache
+\\adir.hull.ac.uk\home\686\686926\StringLength\OOP\OOP\obj\Debug\net5.0\OOP.AssemblyInfo.cs
+\\adir.hull.ac.uk\home\686\686926\StringLength\OOP\OOP\obj\Debug\net5.0\OOP.csproj.CoreCompileInputs.cache
